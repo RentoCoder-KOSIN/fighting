@@ -1,7 +1,5 @@
 pythonのpygameとsocketを組み合わせた格闘型ゲーム
 
-制作:ChatGPT & れんと & うすき
-
 ゲーム説明:
 
 職業: Warrior,Wizard,Assassin,Player,Sniper,Berserker,Gambler
@@ -39,3 +37,4 @@ v6で追加・変更したもの
 1.とりあえず、職業はこのくらいにしてスキルやスキルエフェクトの完成を目指す
 2.Wizardの奥義の設定　属性ごとに
 おまけ.隠しコマンド(実験用)
+
